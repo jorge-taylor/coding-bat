@@ -1,2 +1,2 @@
 def sum2(nums):
-  return sum(nums[:2])
+    return sum(nums[:2])
